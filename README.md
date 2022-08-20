@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dheerajstvpm
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data engineering projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning MEAN Stack
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me through dheerajstvpm@gmail.com
 
 <!---
