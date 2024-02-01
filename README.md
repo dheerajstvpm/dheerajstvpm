@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dheerajstvpm
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MEAN Stack
+- 🌱 I’m a javascript Fullstack developer
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me through dheerajstvpm@gmail.com
 
