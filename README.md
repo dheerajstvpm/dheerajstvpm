@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dheerajstvpm
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Dheeraj
+- 💞️ I’m interested in web development
 - 🌱 I’m a javascript Fullstack developer
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m looking to collaborate on web development projects
 - 📫 You can reach me through dheerajstvpm@gmail.com
 
 <!---
